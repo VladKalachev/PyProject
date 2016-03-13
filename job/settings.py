@@ -55,7 +55,7 @@ ROOT_URLCONF = 'job.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': ['C:/Users/Vlad/Desktop/pythone/job/templates'],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
